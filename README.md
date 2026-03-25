@@ -49,4 +49,27 @@
 
 ---
 
-
+.
+├─ excel-vba/                # Excel VBAモジュール
+│  ├─ mod00_Config.bas       # 設定（パス・定数など）
+│  ├─ mod01_Main.bas         # メイン処理
+│  ├─ mod02_Input.bas        # データ取得処理
+│  ├─ mod03_Process.bas      # データ加工処理
+│  ├─ mod04_Calc.bas         # 開花計算ロジック
+│  └─ mod09_Utility.bas      # 共通処理
+│
+├─ sample-data/              # サンプルデータ（東京）
+│  ├─ sakura_bloom_all.csv   # 開花実績データ
+│  ├─ weather_forecast_東京.csv  # 気温予測データ
+│  ├─ weather_東京_2020_2025.csv # 過去気温データ
+│  └─ weather_東京_2026.csv      # 当年気温データ
+│
+├─ scripts/                  # Pythonスクリプト
+│  ├─ get_sakura_bloom.py
+│  ├─ get_sakura_bloom_forecast.py
+│  ├─ get_weather_current_year.py
+│  ├─ get_weather_forcast.py
+│  └─ get_weather_past_years.py
+│
+├─ .gitignore
+└─ README.md
