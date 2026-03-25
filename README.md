@@ -19,7 +19,7 @@
 
 ポートフォリオ全体の構成については、以下のPDFをご覧ください。
 
-▶ [システム構成図（PDF）](./sys-01_portfolio.pdf)
+▶ [システム構成図（PDF）]([./sys-01_portfolio.pdf](https://github.com/penguin-job/sakura-bloom-analysis/blob/main/sys-03_portfolio.pdf))
 
 ---
 
