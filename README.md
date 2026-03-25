@@ -49,6 +49,8 @@
 
 ---
 
+## リポジトリ構成図
+
 .
 ├─ excel-vba/                # Excel VBAモジュール
 │  ├─ mod00_Config.bas       # 設定（パス・定数など）
