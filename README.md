@@ -49,8 +49,9 @@
 
 ---
 
-## リポジトリ構成図
+## リポジトリ構成
 
+```plaintext
 .
 ├─ excel-vba/                # Excel VBAモジュール
 │  ├─ mod00_Config.bas       # 設定（パス・定数など）
@@ -61,10 +62,10 @@
 │  └─ mod09_Utility.bas      # 共通処理
 │
 ├─ sample-data/              # サンプルデータ（東京）
-│  ├─ sakura_bloom_all.csv   # 開花実績データ
-│  ├─ weather_forecast_東京.csv  # 気温予測データ
-│  ├─ weather_東京_2020_2025.csv # 過去気温データ
-│  └─ weather_東京_2026.csv      # 当年気温データ
+│  ├─ sakura_bloom_all.csv
+│  ├─ weather_forecast_東京.csv
+│  ├─ weather_東京_2020_2025.csv
+│  └─ weather_東京_2026.csv
 │
 ├─ scripts/                  # Pythonスクリプト
 │  ├─ get_sakura_bloom.py
@@ -75,3 +76,4 @@
 │
 ├─ .gitignore
 └─ README.md
+```
