@@ -75,5 +75,6 @@
 │  └─ get_weather_past_years.py
 │
 ├─ .gitignore
-└─ README.md
+├─ README.md
+└ sys-03_portfolio.pdf          # システム構成図
 ```
